@@ -21,7 +21,7 @@ Laundri adalah aplikasi web untuk manajemen layanan laundry yang dibangun menggu
 
 1. Clone repository ini
 ```bash
-git clone [URL_REPOSITORY]
+git clone [https://github.com/usernamenuh/n4h-Aplikasi-Laundri.git]
 cd laundri
 ```
 
