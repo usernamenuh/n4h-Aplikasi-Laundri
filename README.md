@@ -86,3 +86,4 @@ php artisan serve
 
 Silakan buat pull request untuk kontribusi. Untuk perubahan besar, harap buka issue terlebih dahulu untuk mendiskusikan perubahan yang diinginkan.
 
+## Ini Adalah Proses Belajar saya
