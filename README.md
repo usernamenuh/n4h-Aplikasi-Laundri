@@ -1,6 +1,6 @@
-# Laundri - Sistem Manajemen Laundry
+# Sistem Manajemen Laundry 
 
-Laundri adalah aplikasi web untuk manajemen layanan laundry yang dibangun menggunakan Laravel 12. Aplikasi ini membantu pemilik laundry dalam mengelola pesanan, pelanggan, dan operasional bisnis mereka.
+Laundri adalah aplikasi web untuk manajemen layanan laundry yang dibangun menggunakan Laravel 12. Aplikasi ini membantu pemilik laundry dalam mengelola pesanan, pelanggan, dan operasional bisnis mereka. Aplikasi ini adalah model pembelajaran saya
 
 ## Fitur Utama
 
